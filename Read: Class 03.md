@@ -1,6 +1,6 @@
-#Read: Class 03 Passing Functions as Props
+# Read: Class 03 Passing Functions as Props
 
-##[React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
+## [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 1. What does .map() return?
     - it return an array with the same length as the original array.
