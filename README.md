@@ -3,4 +3,4 @@
 |       Read: Class 01           |   [Read: Class 01](https://qaisalshorman.github.io/ReadMe301/Read:%20Class%2001)             |
 | ------------- |--------------|
 |       Read: Class 02     |      [Read: Class 02](https://qaisalshorman.github.io/ReadMe301/Read:%20Class%2002)      |
-|    Read: Class 03           |  [Read: Class 03]()           |
+|    Read: Class 03           |  [Read: Class 03](https://qaisalshorman.github.io/ReadMe301/Read:%20Class%2003 (Links to an external site.) )           |
